@@ -1,8 +1,7 @@
 ---
-title: "Albert Chow | Homepage"
+title: "Homepage"
 permalink: /
 layout: default
-description: "idk"
 ---
 
 This website is currently in progress. I am following [this tutorial](https://www.youtube.com/watch?v=xAOR8sI3UrU)
