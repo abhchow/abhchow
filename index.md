@@ -15,3 +15,11 @@ Here is a sentence with some `in line code` embedded in it.
 for i in range(5):
     print("hello")
 ```
+
+```matlab
+x = 5:9;
+
+for i=x:
+    display(i)
+end
+```
