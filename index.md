@@ -10,7 +10,7 @@ A list of supported themes can be found [here](https://pages.github.com/themes/)
 
 Here is a sentence with some `in line code` embedded in it.
 
-```
+```python
 # here is some other code
 for i in range(5):
     print("hello")
