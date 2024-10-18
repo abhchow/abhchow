@@ -7,7 +7,10 @@ layout: default
 Hi, I'm Albert and welcome to my website! It's currently a work in progress, but when it's done it will host a bio about me, my projects, and some miscellaneous articles/tutorials/blogs that I write about whatever I'm interested in.
 
 # To-do:
-Embed links to my [Github](https://github.com/abhchow) and [LinkedIn](https://www.linkedin.com/in/abhchow/) in either the header, footer or a sidebar.
+- Embed links to my [Github](https://github.com/abhchow) and [LinkedIn](https://www.linkedin.com/in/abhchow/) in either the header, footer or a sidebar.
+- Link to my resume
+- Showcase [previous projects](https://www.youtube.com/@DrumsofWar)
+
 
 # Examples for me to reference
 
