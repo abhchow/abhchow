@@ -31,3 +31,6 @@ for i=x:
     display(i)
 end
 ```
+
+
+$$3^{4}=3\times3\times3\times3$$
