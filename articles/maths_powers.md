@@ -134,25 +134,7 @@ $$
 
 Notice that for both of these, we didn't need to use the idea of repeated multiplication or division to find these results. This is what makes it a great candidate for a new definition, because it does all of the same things, but lets us break free of the old and restrictive ideas.
 
-NOTE: I'm uncertain about including a much more primitive form of the previous derivation. On one hand, it is nice to demonstrate how to do it using our old definitions, but it's also cumbersome and doesn't help us build towards our new, more abstract definition.
-
-$$
-\begin{equation}
-\begin{aligned}
-& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \times 3 \div 3 \div 3 \div 3 \\
-& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \times (3 \div 3) \div 3 \div 3 \\
-& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \div 3 \div 3 \\
-& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times (3 \div 3) \div 3 \\
-& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \div 3 \\
-& 3^{5} \times 3^{-3} = 3 \times 3 \times (3 \div 3) \\
-& 3^{5} \times 3^{-3} = 3 \times 3\\
-& 3^{5} \times 3^{-3} = 3^{2} \\
-& 3^{5} \times 3^{-3} = 3^{5-3} \\
-\end{aligned}
-\end{equation}
-$$
-
-We can actually do the same thing to put together both positive and negative powers. If you multiply a number by itself 5 times, but then divide by itself 5 times, you should get right back to 1.
+We can actually do the same thing to see the relationship between positive, negative and 0 powers. If you multiply a number by itself 5 times, but then divide by itself 5 times, you should get right back to 1.
 
 $$
 \begin{equation}
