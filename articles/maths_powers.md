@@ -170,16 +170,36 @@ Let's recap what we've accomplished so far with this definition:
 - We've noted that it breaks free from the restrictions of the old definition, even though it still gives the same results
 
 ## Part 4: Breaking free
-Now we that we've established that our new definition is free from the restrictions of the old one, what can we do with it?
+Now we that we've established that our new definition is free from the restrictions of the old one, what can we do with it? Let's try to use some fractional powers:
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{frac{1}{2}} \times 3^{frac{1}{2}} = 3^{frac{1}{2}+frac{1}{2}} \\
+& 3^{frac{1}{2}} \times 3^{frac{1}{2}} = 3^{1} \\
+& 3^{5} \times 3^{-5} = 3 \\
+\end{aligned}
+\end{equation}
+$$
+
+Wait a second. We just multiplied this unknown number $3^{frac{1}{2}}$ by itself, and then got 3 back. That's pretty weird, but it's actually the same as something else you've seen before:
+
+$$
+\begin{equation}
+\begin{aligned}
+& sqrt{3} \times sqrt{3} = 3
+\end{aligned}
+\end{equation}
+$$
+
+You might remember that the definition of a square root is that when you multiply it by itself, you get the number under the square root. So if we were to represent it with a power, then it should just be half of one, which is what we saw earlier.
 
 
 
 
-
-
-
+- TODO: Talk about cube roots
+- TODO: Talk about other non integer powers, with examples such as compound interest
 - TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
-- TODO: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
 - TODO: figure out equation numbers in latex
 - TODO: figure fix formatting on year 1, year 2, year 3...
 
