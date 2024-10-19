@@ -1,5 +1,6 @@
 # Aren't powers just repeated multiplication?
 
+## Part 1: An introduction
 In mathematics, a core approach to developing our ideas is that of _extending_ definitions. Let's explore this by taking a look at the concept of _powers_, which you should be familiar with from high school. Back then, you probably learnt that the definition of a power is just repeated multiplication:
 
 $$ 3^{4} = 3 \times 3 \times 3 \times 3 $$
@@ -14,6 +15,7 @@ $$ n^{a} \times n^{b} = n^{a+b} $$
 
 What's important to note here is not just that this relationship is derived from the original definition of repeated multiplication, but that it is also _always_ true, no matter what values of $n$, $a$ and $b$ we choose. But if it's _always_ true, then couldn't we also use it as a definition?
 
+## Part 2: Extending the original definition
 Before we answer that question, let's have a look at some patterns:
 
 $$
@@ -76,9 +78,11 @@ There are endless other examples we could use, but the common thread between the
 We can think of this idea algebraically too. Since 1 multiplied by any number is just that number, you could alternatively define a power as how many times you multiply 1 by some number.
 
 TODO: insert equation here when i can be bothered
+TODO: figure out how to underline stuff in latex so I can write a note that looks like |________n times________|
 
 If you multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
 
+## Part 3: Mulitiplying a negative amount of times?
 It doesn't really make sense to say that we multiplied a negative amount of times. But if negative numbers are the opposite of positive numbers, then maybe a negative power is the opposite of multiplying repeatedly - dividing repeatedly. 
 
 $$
@@ -95,14 +99,85 @@ $$
 \end{equation}
 $$
 
+## Part 4: A better definition
 This is actually exactly what we did to create our pattern in the first place, we just kept on dividing by 3 to go backwards through the powers. So now we've extended our definition again, to say that a power is repeated multiplication for positive powers, and repeated division for negative powers.
 
-Can we extend the definition more? So far we've only defined how integer powers work. What about fractional powers? Can we come up with a definition that works for _all_ different numbers?
+Can we extend the definition more? So far we've only defined how integer powers work. What about fractional powers? It doesn't make any sense to only multiply or divide _half_ a time. Can we come up with a definition that works for _all_ different numbers?
+
+Well actually, we already did. Earlier, we noted the property 
+
+$$ n^{a} \times n^{b} = n^{a+b} $$
+
+Before we try to use this to further extend our definition, let's verify that it works as we expect for both negative and 0 powers. We'll start with showing that a number to the power of 0 should equal 1:
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{5} \times 3^{0} = 3^{5+0} \\
+& 3^{5} \times 3^{0} = 3^{5} \\
+& 3^{5} \times 3^{0} = 3^{5} \times 1 \\
+& 3^{0} = 1 \\
+\end{aligned}
+\end{equation}
+$$
+
+Now let's work on the negative powers. If we multiply a number by itself 5 times, but then divide it by itself 3 times, we should end up with that number multiplied by itself twice:
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{5} \times 3^{-3} = 3^{5-3} \\
+& 3^{5} \times 3^{-3} = 3^{2} \\
+\end{aligned}
+\end{equation}
+$$
+
+Notice that for both of these, we didn't need to use the idea of repeated multiplication or division to find these results. This is what makes it a great candidate for a new definition, because it does all of the same things, but lets us break free of the old and restrictive ideas.
+
+NOTE: I'm uncertain about including a much more primitive form of the previous derivation. On one hand, it is nice to demonstrate how to do it using our old definitions, but it's also cumbersome and doesn't help us build towards our new, more abstract definition.
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \times 3 \div 3 \div 3 \div 3 \\
+& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \times (3 \div 3) \div 3 \div 3 \\
+& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times 3 \div 3 \div 3 \\
+& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \times (3 \div 3) \div 3 \\
+& 3^{5} \times 3^{-3} = 3 \times 3 \times 3 \div 3 \\
+& 3^{5} \times 3^{-3} = 3 \times 3 \times (3 \div 3) \\
+& 3^{5} \times 3^{-3} = 3 \times 3\\
+& 3^{5} \times 3^{-3} = 3^{2} \\
+& 3^{5} \times 3^{-3} = 3^{5-3} \\
+\end{aligned}
+\end{equation}
+$$
+
+We can actually do the same thing to put together both positive and negative powers. If you multiply a number by itself 5 times, but then divide by itself 5 times, you should get right back to 1.
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{5} \times 3^{-5} = 3^{5-5} \\
+& 3^{5} \times 3^{-5} = 3^{0} \\
+& 3^{5} \times 3^{-5} = 1 \\
+\end{aligned}
+\end{equation}
+$$
+
+Let's recap what we've accomplished so far with this definition:
+- We've verified that it works for all of the ideas that our old definitions worked for
+- We've shown that it is much simpler and faster to use than our old definition
+- We've noted that it breaks free from the restrictions of the old definition, even though it still gives the same results
+
+## Part 5: Breaking free
+Now we that we've established that our new definition is free from the restrictions of the old one, what can we do with it?
+
+
+
+
+
 
 
 - TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
-- TODO: talk about how n^a+b makes this all a lot easier to work with
-    - n^a * n^0 = n^a+0 = n^a therefore n^0 = 1
 - TODO: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
 - TODO: figure out equation numbers in latex
 - TODO: figure fix formatting on year 1, year 2, year 3...
