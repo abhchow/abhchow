@@ -1,7 +1,5 @@
 # Aren't powers just repeated multiplication?
 
-TODO: figure out equation numbers in latex
-
 In mathematics, a core approach to developing our ideas is that of _extending_ definitions. Let's explore this by taking a look at the concept of _powers_, which you should be familiar with from high school. Back then, you probably learnt that the definition of a power is just repeated multiplication:
 
 $$ 3^{4} = 3 \times 3 \times 3 \times 3 $$
@@ -77,12 +75,14 @@ There are endless other examples we could use, but the common thread between the
 
 We can think of this idea algebraically too. Since 1 multiplied by any number is just that number, you could alternatively define a power as how many times you multiply 1 by some number.
 
-insert equation here when i can be bothered
+TODO: insert equation here when i can be bothered
 
 If you simply multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
 
-todo: talk about how multiplying negative times could be division
-todo: talk about how extending definitions means examples and analogies might break down/not be general enough
-todo: talk about how n^a+b makes this all a lot easier to work with
-todo: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
+
+- TODO: talk about how multiplying negative times could be division
+- TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
+- TODO: talk about how n^a+b makes this all a lot easier to work with
+- TODO: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
+- TODO: figure out equation numbers in latex
 
