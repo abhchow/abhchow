@@ -47,3 +47,9 @@ $$
 \end{aligned}
 \end{equation}
 $$
+
+Continuing the pattern seems to give a somewhat reasonable answer, but raises some important questions:
+- What does it mean to raise a number to the power of 0?
+- What does it mean to raise a number to the power of a negative number?
+
+To answer these, we need to go back and think about our original definition. We defined a power as repeated multiplication, and we can imagine such an idea in multiple ways. For instance, the volume of a cube with side length 2 is $2\times2\times2=2^{3}=8$. <TODO: insert picture or gif of a cube broken into 8 pieces>. You can think of this by starting with (you could also start with a point and extend that into a line of length 2) a line of length 2, then extending it out to become a square with side length 2, that has $2\times2=4$ smaller squares, then extending that out to become a cube with side length 2. <TODO: insert gif with animation of this process >
