@@ -177,7 +177,7 @@ $$
 \begin{aligned}
 & 3^{\frac{1}{2}} \times 3^{\frac{1}{2}} = 3^{\frac{1}{2}+\frac{1}{2}} \\
 & 3^{\frac{1}{2}} \times 3^{\frac{1}{2}} = 3^{1} \\
-& 3^{5} \times 3^{-5} = 3 \\
+& 3^{\frac{1}{2}} \times 3^{\frac{1}{2}} = 3 \\
 \end{aligned}
 \end{equation}
 $$
