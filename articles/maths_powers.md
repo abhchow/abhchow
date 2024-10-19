@@ -2,6 +2,14 @@
 
 In mathematics, a core approach to developing our ideas is that of _extending_ definitions. Let's explore this by taking a look at the concept of _powers_, which you should be familiar with from high school. Back then, you probably learnt that the definition of a power is just repeated multiplication:
 
-$$3^{4}=3\times3\times3\times3$$
+$$ 3^{4} = 3 \times 3 \times 3 \times 3 $$
 
-Often when we start with a definition like this, we notice that it produces other properties that are always true. To demonstrate this, let's take a look at what happens when you take two different powers of a number and multiply  $3^{4}=3\times3\times3\times3$ them together:
+Often when we start with a definition like this, we notice that it produces other properties that are always true. To demonstrate this, let's take a look at what happens when you take two different powers of a number and multiply them together:
+
+$$ 2^{3} \times 2^{4} = 2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 2^{7} $$
+
+You can see that $ 2^{3} \ times 2^{4} $ is just multiplying $ 2 $ by itself 3 times, then by another 4 times, so $ 2^{3} \times 2^{4} = 2^{3+4} = {2^7} $. We can write this more generally as:
+
+$$ x^{a} \times x^{b} = x^{a+b} $$
+
+What's important to note here is not just that this relationship is derived from the original definition of repeated multiplication, but that it is also _always_ true, no matter what values of $x$, $a$ and $b$ we choose.
