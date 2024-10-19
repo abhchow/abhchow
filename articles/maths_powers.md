@@ -19,10 +19,31 @@ Before we answer that question, let's have a look at some patterns:
 $$
 \begin{equation}
 \begin{aligned}
+& 3^{6} = 729 \\
+& 3^{5} = 243 \\
 & 3^{4} = 81 \\
 & 3^{3} = 27 \\
 & 3^{2} = 9 \\
 & 3^{1} = 3 \\
+\end{aligned}
+\end{equation}
+$$
+
+To get from $3^{6}$ to $3^{5}$, we simply divided by $3$. Then to get from $3^{5}$ to $3^{4}$, we again divided by $3$. And we could keep going with this pattern until we got down to $3^{1}=3$. But can we go any further? Each time, we divided by the _base_, $3$, and decreased the power by 1. What happens if we keep going?
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{6} = 729 \\
+& 3^{5} = 243 \\
+& 3^{4} = 81 \\
+& 3^{3} = 27 \\
+& 3^{2} = 9 \\
+& 3^{1} = 3 \\
+& 3^{0} = 1 \\
+& 3^{-1} = \frac{1}{3} \\
+& 3^{-2} = \frac{1}{9} \\
+& 3^{-3} = \frac{1}{27} \\
 \end{aligned}
 \end{equation}
 $$
