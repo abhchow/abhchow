@@ -13,7 +13,7 @@ You can see that $2^{3}\times2^{4}$ is just multiplying $2$ by itself 3 times, a
 
 $$ n^{a} \times n^{b} = n^{a+b} $$
 
-This is a much more convenient way to work with powers than writing out the repeated multiplication every time we come across them. It's important to note here that it's not just that this relationship is derived from the original definition of repeated multiplication, but that it is also _always_ true, no matter what values of $n$, $a$ and $b$ we choose. But if it's _always_ true, then couldn't we also use it as a definition?
+This is a much more convenient way to work with powers than writing out the repeated multiplication every time we come across them. Importantly, it's not this relationship isn't just derived from the original definition of repeated multiplication, but it is also _always_ true, no matter what values of $n$, $a$ and $b$ we choose. But if it's _always_ true, then couldn't we also use it as a definition?
 
 ## Part 2: Extending the original definition
 Before we answer that question, let's have a look at some patterns:
