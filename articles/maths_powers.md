@@ -187,7 +187,7 @@ Wait a second. We just multiplied this unknown number $3^{\frac{1}{2}}$ by itsel
 $$
 \begin{equation}
 \begin{aligned}
-& sqrt{3} \times sqrt{3} = 3
+& \sqrt{3} \times \sqrt{3} = 3
 \end{aligned}
 \end{equation}
 $$
