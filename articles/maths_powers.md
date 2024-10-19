@@ -78,7 +78,7 @@ There are endless other examples we could use, but the common thread between the
 We can think of this idea algebraically too. Since 1 multiplied by any number is just that number, you could alternatively define a power as how many times you multiply 1 by some number.
 
 TODO: insert equation here when i can be bothered
-TODO: figure out how to underline stuff in latex so I can write a note that looks like |________n times________|
+TODO: figure out how to underline stuff in latex so I can write a note that looks like |--------n times--------|
 
 If you multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
 
