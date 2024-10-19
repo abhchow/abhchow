@@ -18,9 +18,9 @@ Before we answer that question, let's have a look at some patterns:
 
 $$
 \begin{equation}
-3^{4} = 81
-3^{3} = 27
-3^{2} = 9
-3^{1} = 3
+3^{4} = 81 \\
+3^{3} = 27 \\
+3^{2} = 9 \\
+3^{1} = 3 \\
 \end{equation}
 $$
