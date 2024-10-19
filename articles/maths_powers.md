@@ -78,6 +78,7 @@ There are endless other examples we could use, but the common thread between the
 We can think of this idea algebraically too. Since 1 multiplied by any number is just that number, you could alternatively define a power as how many times you multiply 1 by some number.
 
 TODO: insert equation here when i can be bothered
+
 TODO: figure out how to underline stuff in latex so I can write a note that looks like |--------n times--------|
 
 If you multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
@@ -98,9 +99,9 @@ $$
 \end{equation}
 $$
 
-## Part 3: A better definition
 This is actually exactly what we did to create our pattern in the first place, we just kept on dividing by 3 to go backwards through the powers. So now we've extended our definition again, to say that a power is repeated multiplication for positive powers, and repeated division for negative powers.
 
+## Part 3: A better definition
 Can we extend the definition more? So far we've only defined how integer powers work. What about fractional powers? It doesn't make any sense to only multiply or divide _half_ a time. Can we come up with a definition that works for _all_ different numbers?
 
 Well actually, we already did. Earlier, we noted the property 
@@ -134,6 +135,7 @@ $$
 Notice that for both of these, we didn't need to use the idea of repeated multiplication or division to find these results. This is what makes it a great candidate for a new definition, because it does all of the same things, but lets us break free of the old and restrictive ideas.
 
 NOTE: I'm uncertain about including a much more primitive form of the previous derivation. On one hand, it is nice to demonstrate how to do it using our old definitions, but it's also cumbersome and doesn't help us build towards our new, more abstract definition.
+
 $$
 \begin{equation}
 \begin{aligned}
