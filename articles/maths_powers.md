@@ -175,14 +175,14 @@ Now we that we've established that our new definition is free from the restricti
 $$
 \begin{equation}
 \begin{aligned}
-& 3^{frac{1}{2}} \times 3^{frac{1}{2}} = 3^{frac{1}{2}+frac{1}{2}} \\
-& 3^{frac{1}{2}} \times 3^{frac{1}{2}} = 3^{1} \\
+& 3^{\frac{1}{2}} \times 3^{\frac{1}{2}} = 3^{\frac{1}{2}+\frac{1}{2}} \\
+& 3^{\frac{1}{2}} \times 3^{\frac{1}{2}} = 3^{1} \\
 & 3^{5} \times 3^{-5} = 3 \\
 \end{aligned}
 \end{equation}
 $$
 
-Wait a second. We just multiplied this unknown number $3^{frac{1}{2}}$ by itself, and then got 3 back. That's pretty weird, but it's actually the same as something else you've seen before:
+Wait a second. We just multiplied this unknown number $3^{\frac{1}{2}}$ by itself, and then got 3 back. That's pretty weird, but it's actually the same as something else you've seen before:
 
 $$
 \begin{equation}
