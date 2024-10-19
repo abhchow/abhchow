@@ -82,7 +82,6 @@ TODO: figure out how to underline stuff in latex so I can write a note that look
 
 If you multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
 
-## Part 3: Mulitiplying a negative amount of times?
 It doesn't really make sense to say that we multiplied a negative amount of times. But if negative numbers are the opposite of positive numbers, then maybe a negative power is the opposite of multiplying repeatedly - dividing repeatedly. 
 
 $$
@@ -99,7 +98,7 @@ $$
 \end{equation}
 $$
 
-## Part 4: A better definition
+## Part 3: A better definition
 This is actually exactly what we did to create our pattern in the first place, we just kept on dividing by 3 to go backwards through the powers. So now we've extended our definition again, to say that a power is repeated multiplication for positive powers, and repeated division for negative powers.
 
 Can we extend the definition more? So far we've only defined how integer powers work. What about fractional powers? It doesn't make any sense to only multiply or divide _half_ a time. Can we come up with a definition that works for _all_ different numbers?
@@ -168,7 +167,7 @@ Let's recap what we've accomplished so far with this definition:
 - We've shown that it is much simpler and faster to use than our old definition
 - We've noted that it breaks free from the restrictions of the old definition, even though it still gives the same results
 
-## Part 5: Breaking free
+## Part 4: Breaking free
 Now we that we've established that our new definition is free from the restrictions of the old one, what can we do with it?
 
 
