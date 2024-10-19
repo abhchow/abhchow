@@ -77,10 +77,29 @@ We can think of this idea algebraically too. Since 1 multiplied by any number is
 
 TODO: insert equation here when i can be bothered
 
-If you simply multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
+If you multiply 1 by a number 0 times, then you simply end up with 1. That matches the pattern we saw earlier, and still allows us to define powers as being repeated multiplication. So that gives us a clearly extended definition of powers that includes 0, but does it work for the negative numbers we saw in our pattern?
+
+It doesn't really make sense to say that we multiplied a negative amount of times. But if negative numbers are the opposite of positive numbers, then maybe a negative power is the opposite of multiplying repeatedly - dividing repeatedly. 
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{1} = 3 \\
+& 3^{0} = 1 \\
+& 3^{-1} = \frac{1}{3} \\
+& 3^{-2} = \frac{1}{9} \\
+& 3^{-3} = \frac{1}{27} \\
+& 3^{-4} = \frac{1}{81} \\
+& 3^{-5} = \frac{1}{243} \\
+\end{aligned}
+\end{equation}
+$$
+
+This is actually exactly what we did to create our pattern in the first place, we just kept on dividing by 3 to go backwards through the powers. So now we've extended our definition again, to say that a power is repeated multiplication for positive powers, and repeated division for negative powers.
+
+Can we extend the definition more? So far we've only defined how integer powers work. What about fractional powers? Can we come up with a definition that works for _all_ different numbers?
 
 
-- TODO: talk about how multiplying negative times could be division
 - TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
 - TODO: talk about how n^a+b makes this all a lot easier to work with
     - n^a * n^0 = n^a+0 = n^a therefore n^0 = 1
