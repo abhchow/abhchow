@@ -18,9 +18,20 @@ Before we answer that question, let's have a look at some patterns:
 
 $$
 \begin{equation}
-3^{4} = 81 \\
-3^{3} = 27 \\
-3^{2} = 9 \\
-3^{1} = 3 \\
+3^{4} = 81 \cap
+3^{3} = 27 \cap
+3^{2} = 9 \cap
+3^{1} = 3 \cap
+\end{equation}
+$$
+
+$$
+\begin{equation}
+\begin{aligned}
+& 3^{4} = 81 \\
+& 3^{3} = 27 \\
+& 3^{2} = 9 \\
+& 3^{1} = 3 \\
+\end{aligned}
 \end{equation}
 $$
