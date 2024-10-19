@@ -83,7 +83,7 @@ If you simply multiply 1 by a number 0 times, then you simply end up with 1. Tha
 - TODO: talk about how multiplying negative times could be division
 - TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
 - TODO: talk about how n^a+b makes this all a lot easier to work with
--- n^a * n^0 = n^a+0 = n^a therefore n^0 = 1
+    - n^a * n^0 = n^a+0 = n^a therefore n^0 = 1
 - TODO: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
 - TODO: figure out equation numbers in latex
 - TODO: figure fix formatting on year 1, year 2, year 3...
