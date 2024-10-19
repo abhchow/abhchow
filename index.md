@@ -10,7 +10,9 @@ Hi, I'm Albert and welcome to my website! It's currently a work in progress, but
 - Embed links to my [Github](https://github.com/abhchow) and [LinkedIn](https://www.linkedin.com/in/abhchow/) in either the header, footer or a sidebar.
 - Link to my resume
 - Showcase [previous projects](https://www.youtube.com/@DrumsofWar)
-
+- Set up Jeykll
+- Set my own Jekyll to render md to html
+- Set up MathJax to render LaTeX via Jekyll
 
 # Examples for me to reference
 
