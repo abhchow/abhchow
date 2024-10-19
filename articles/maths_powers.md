@@ -192,7 +192,7 @@ $$
 \end{equation}
 $$
 
-You might remember that the definition of a square root is that when you multiply it by itself, you get the number under the square root. So if we were to represent it with a power, then it should just be half of one, which is what we saw earlier.
+You might remember that the definition of a square root is that when you multiply it by itself, you get the number under the square root. So if we were to represent it with a power, then it should just be half of one, which is what we saw earlier. NOTE: I feel like I could justify this better but I don't know how to word it
 
 
 
