@@ -85,4 +85,5 @@ If you simply multiply 1 by a number 0 times, then you simply end up with 1. Tha
 - TODO: talk about how n^a+b makes this all a lot easier to work with
 - TODO: talk about fractional powers/surds: n^1/2 * n^1/2 = n^1
 - TODO: figure out equation numbers in latex
+- TODO: figure fix formatting on year 1, year 2, year 3...
 
