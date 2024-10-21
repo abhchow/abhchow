@@ -1,3 +1,10 @@
+---
+title: "stuff"
+permalink: articles/complex
+layout: default
+# layout: page
+---
+
 Why complex numbers?
 - Mathematics: extending definitions
     - Definition of a power: repeated multiplication
