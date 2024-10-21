@@ -1,3 +1,10 @@
+---
+title: "stuff"
+permalink: articles/maths_powers
+layout: default
+# layout: page
+---
+
 # Aren't powers just repeated multiplication?
 
 ## Part 1: An introduction
