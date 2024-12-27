@@ -14,14 +14,15 @@ Why complex numbers?
 
 Working with Complex numbers and applications of complex analysis
 - rotation
-- powers of i and argand diagrans
-- euler's formula ([article: better explained](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/))
+    - powers of i and argand diagrans
+    - euler's formula ([article: better explained](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/))
 
 - Analytic Continuation ([article: 3blue1brown](https://www.3blue1brown.com/lessons/zeta))
     - riemann zeta function $ζ(s)$
         - riemann hypothesis
         - open form solutions
         - another look at -1/12
+            - $s_=\sum{n=0}{\inf}(-1)^n$
 - Convergence, fractals and the mandelbrot set
 - convolutions and domain transformations
     - laplace and fourier transforms
