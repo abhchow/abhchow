@@ -26,7 +26,7 @@ Working with Complex numbers and applications of complex analysis
             - $s_2=\sum_{n=1}^{\infty}n(-1)^{n-1}$
             - $s_3=\sum_{n=1}^{\infty}n$
             - $1-s_1 = ?$
-            - $s_2 + s_2_shifted = ?$
+            - $s_2 + s_{2_shifted} = ?$
             - $s_2 - s_3 = ?$
 - Convergence, fractals and the mandelbrot set
 - convolutions and domain transformations
