@@ -23,8 +23,11 @@ Working with Complex numbers and applications of complex analysis
         - open form solutions
         - another look at -1/12
             - $s_1=\sum_{n=0}^{\infty}(-1)^n$
+                - $1 - 1 + 1 - 1 + \dots$
             - $s_2=\sum_{n=1}^{\infty}n(-1)^{n-1}$
+                - $1 - 2 + 3 - 4 + \dots$
             - $s_3=\sum_{n=1}^{\infty}n$
+                - $1 + 2 + 3 + 4 + \dots$
             - $1-s_1 = ?$
             - $s_2 + s_{2_{shifted}} = ?$
             - $s_2 - s_3 = ?$
