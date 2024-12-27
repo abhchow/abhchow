@@ -22,7 +22,7 @@ Working with Complex numbers and applications of complex analysis
         - riemann hypothesis
         - open form solutions
         - another look at -1/12
-            - $s_=\sum{n=0}{\inf}(-1)^n$
+            - $s_1=\sum_{n=0}^{\infty}(-1)^n$
 - Convergence, fractals and the mandelbrot set
 - convolutions and domain transformations
     - laplace and fourier transforms
