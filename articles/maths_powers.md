@@ -193,4 +193,5 @@ You might remember that the definition of a square root is that when you multipl
 - TODO: talk about how extending definitions means examples and analogies might break down/not be general enough
 - TODO: figure out equation numbers in latex
 - TODO: figure fix formatting on year 1, year 2, year 3...
+- TODO: link to complex numbers with ${-1^{\frac{1}{2}}}$
 
