@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hey there! I'm Albert 👋
 
-Hey there! I'm Albert. This repository holds a basic website that I've made to showcase my personal projects.
+This repository holds a basic website that I've made to showcase my personal projects.
 
 It's a work in progress, but when it's done it'll hold my portfolio of projects, some articles and maybe a few other random things. Don't expect the website to be too pretty, I'm just messing around here.
+
+# About Me 
 
 I graduated from Monash University in Melbourne with a Bachelor of Mechatronics Engineering (Honours) and Bachelor of Science (with majors in Mathematics and Computational Science). I also spent several years tutoring numerous subjects in the Engineering and IT Faculties, and have a passion for teaching STEM.
 
